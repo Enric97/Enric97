@@ -1,12 +1,13 @@
 <h1 align="center">🐸 About me </h1>
 
 
-- 🔭 I’m currently working on web development and cloud practices
+- 🔭 Crafting web applications is my current job, while concurrently, I'm actively acquiring skills in cloud architecture
 
-- 🌱 I’m currently learning and improving in cloud formation
+- ⚡ My unique background lies in the medical field, where I previously thrived as an interoperability technician, adding an interesting twist to my tech journey
 
-- ⚡ Fun fact I have an medical background and experience as interoperability technician
+- 🌱 This diverse experience fuels my enthusiasm for continuous learning and exploration in the tech world
 
+  
 <h2 align="left">🌐 Social</h2>
 <p align="left">
 <a href="https://linkedin.com/in/enricvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enricvm" height="30" width="40" /></a>
